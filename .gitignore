@@ -1,0 +1,17 @@
+*wazuh-passwords*
+*.key
+*.pem
+*.pfx
+*.env
+*.log
+*.evtx
+*.pcap
+*.pcapng
+secrets/
+credentials/
+passwords/
+private/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
